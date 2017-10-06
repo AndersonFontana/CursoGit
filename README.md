@@ -7,3 +7,5 @@ Curso Git
 primeira linha de texto
 
 segunda linha de texto
+
+terceira linha de texto
